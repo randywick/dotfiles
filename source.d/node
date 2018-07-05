@@ -1,0 +1,3 @@
+alias n:i="npm install --save"
+alias n:ig="npm install -g"
+alias n:init="npm init -y"

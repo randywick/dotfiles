@@ -1,0 +1,18 @@
+# directory listing
+alias ll="ls -lah"
+
+# navigation
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+# filesystem
+alias mkdir="mkdir -pv"
+
+# zsh
+alias z="source ~/.zshrc"
+alias zedit="$EDITOR ~/.zshrc"
+
+# vim
+alias vi="vim"
